@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/BuckinghamAJ/solidjs-wails-template/migrations"
+	"github.com/BuckinghamAJ/finance-langchain-capstone/migrations"
 	"github.com/mattn/go-sqlite3"
 )
 

@@ -1,5 +1,5 @@
 {
-  "name": "solidjs-wails-template-frontend",
+  "name": "finance-langchain",
   "version": "0.0.0",
   "description": "SolidJS, Tailwind, and Wails frontend starter.",
   "type": "module",

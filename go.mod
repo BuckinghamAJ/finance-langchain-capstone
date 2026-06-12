@@ -1,6 +1,6 @@
-module github.com/BuckinghamAJ/solidjs-wails-template
+module github.com/BuckinghamAJ/finance-langchain-capstone
 
-go 1.25.0
+go 1.26.2
 
 require (
 	github.com/mattn/go-sqlite3 v1.14.32

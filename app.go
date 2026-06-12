@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/BuckinghamAJ/solidjs-wails-template/internal/db"
-	"github.com/BuckinghamAJ/solidjs-wails-template/internal/store"
+	"github.com/BuckinghamAJ/finance-langchain-capstone/internal/db"
+	"github.com/BuckinghamAJ/finance-langchain-capstone/internal/store"
 )
 
 type App struct {
